@@ -1,6 +1,6 @@
 # Gaussian Process regression and RBF interpolation
 
-Gaussian process and RBF interpolation implemented in `Python`.
+Gaussian process and RBF interpolation implemented in `Python`. Based on C. M. Bishop's book [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 
 ## Gaussian Process regression
 

@@ -12,3 +12,5 @@ Given a random set of samples `x`, and their respective values `y`, which arise 
 ## RBF interpolation
 
 ![interp](https://user-images.githubusercontent.com/50104866/168268460-01549a0a-a511-4134-91bc-c199546efb39.png)
+
+A set of 2D points uniformly generated using f(x,y), between the range of {-1.0, 1.0}, are interpolated using RBF interpolation.
